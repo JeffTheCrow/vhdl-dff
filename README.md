@@ -12,7 +12,7 @@ This project implements a basic D-type flip-flop in VHDL with an asynchronous re
 
 * RTL implementation in VHDL
 * Asynchronous active-high reset
-* Clocked F flip-flop behaviour
+* Clocked D flip-flop behaviour
 * Simulation verified in ModelSim
 
 
